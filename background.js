@@ -2,7 +2,7 @@
     var self = $.jarb = new function(){};
     $.extend(self, {
         jarbImgs : [
-			"http://www.gannett-cdn.com/-mm-/7420484b74b75a2c735248dcda61358fb389f70a/c=0-30-1058-628&r=x329&c=580x326/local/-/media/2015/12/06/USATODAY/USATODAY/635850267481025932-JARJAR-1553719.JPG"
+			"http://www.relatably.com/q/img/jar-jar-binks-quotes-mp3/tumblr_nxay3r8YgN1rl29sro1_1446660135_cover.png"
         ],
         handleImages : function (lstImgs, time) {
             $.each($('img'), function(i,item) { 
