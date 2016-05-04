@@ -1,4 +1,4 @@
-javertify
+Jar Jar Binks
 =======
 
-Replace all imgs on a site with pictures of Javert
+Replace all images on a site with pictures of Jar Jar Binks
