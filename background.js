@@ -1,8 +1,8 @@
 (function($) {
-    var self = $.javert = new function(){};
+    var self = $.jarb = new function(){};
     $.extend(self, {
-        javertImgs : [
-			"http://i.imgur.com/ubRc02u.gif"
+        jarbImgs : [
+			"http://www.gannett-cdn.com/-mm-/7420484b74b75a2c735248dcda61358fb389f70a/c=0-30-1058-628&r=x329&c=580x326/local/-/media/2015/12/06/USATODAY/USATODAY/635850267481025932-JARJAR-1553719.JPG"
         ],
         handleImages : function (lstImgs, time) {
             $.each($('img'), function(i,item) { 
@@ -31,6 +31,6 @@
         }
     });
     $(function(){
-        self.handleImages(self.javertImgs, 3000);
+        self.handleImages(self.jarbImgs, 3000);
     });
 })(jQuery);
